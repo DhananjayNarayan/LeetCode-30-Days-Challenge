@@ -1,4 +1,4 @@
-## Delete Node in a Linked List
+## Day 2. Delete Node in a Linked List
 
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
 
